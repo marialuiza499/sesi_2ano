@@ -2,7 +2,8 @@
 
 $dev= "Olá mundo!";
 $nome = "Eu sou a Maria Luiza!";
+$descricao = "Curso: Técnico em Desenvolvimento de Sistemas.";
 
-echo $dev. " ".$nome;
+echo $dev. " ".$nome. "\n". $descricao;
 
 ?>
